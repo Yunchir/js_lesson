@@ -32,4 +32,4 @@ let a = function (name) {
 //array function
 const b = (name) => { return "Hello " + name}
 
-console.log(a(" Yunchka"))
+console.log(a(" Yunchka"));
