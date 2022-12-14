@@ -20,8 +20,8 @@ for(let i = 1; i <= 16; i++){
     console.log(a, b, c);
     if( d == i){
         qDiv.style.width = "120px"
-    qDiv.style.height = "120px"
-    qDiv.style.border = "1px solid black"
+        qDiv.style.height = "120px"
+        qDiv.style.border = "1px solid black"
         qDiv.style.backgroundColor = `rgb(${a},${b - 30},${c})`;
     }
 }
